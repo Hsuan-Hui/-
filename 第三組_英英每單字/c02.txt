@@ -1,0 +1,9 @@
+﻿Amazon Patents Wristband to Monitor and Direct Workers’ Hands
+亞馬遜專利手環將監視並引導作業人員的雙手
+Amazon has patented designs for a wristband that would monitor workers’ hand movements and use vibrations – known as “haptic feedback” – to point them in the right direction if they put their hands on the wrong places. The concept is meant to streamline and fulfil more orders, but has also raised concerns over extra surveillance in the work environment.
+One patent’s description reads that the approach would remove existing time-consuming acts, “such as pushing a button associated with the inventory bin or scanning a barcode associated with the inventory bin.”
+The patent for the ultrasonic wristband was filed in 2016 by Jonathan Cohn, a senior technical program manager for Amazon Go, the checkout-less store which recently opened in Seattle.
+”By moving equipment to associates’ wrists, we could free up their [workers'] hands from scanners and their eyes from computer screens,” said the spokesperson.
+Some commentators have pointed out that this technology will provide added surveillance capabilities, which could potentially allow the company to track time-wasting and bathroom breaks. 
+Amazon maintains that this patent is motivated by a desire to improve operational efficiency. In a statement to technology site The Verge, an Amazon spokesperson said that the speculation that it times the toilet breaks of employees is “misguided.”
+

@@ -1,0 +1,9 @@
+﻿Bitcoin - Digital Money on the Internet
+Bitcoin is an internet currency that was started in 2009 by a Japanese software developer. In contrast to normal money, which is distributed and controlled by government, there is no central organization behind Bitcoin. You can send and receive Bitcoin money without giving your name or address and without paying fees to a bank.
+Bitcoins are not physical. However, they can be bought at exchanges all across the Internet, where you can trade them for normal money. 
+Bitcoins are created by a process called mining. They can be produced by anyone around the world. People compete to solve puzzles using mathematical software. If they succeed they get a certain number of bitcoins as a reward. 
+Customers can save their bitcoins in an internet wallet, a kind of software that manages your virtual money. From there you can buy products from merchants who accept bitcoins. You can also sell items and get bitcoins in return. Only your special ID is transferred across the Internet, never your real identity. Bitcoin is a way of sending and receiving money anonymously. Not all governments are happy about this new internet currency. Some see it as a way of transferring money, for example from drugs or other illegal activities, from one place to another.
+
+The value of bitcoins is determined by their popularity in the world and how they are trusted. If many businesses accept the currency and more and more people use it to make transactions, its value goes up. Recent scandals around Bitcoin exchanges, however, has made the value of the digital currency go down. Towards the end of 2013 the value of the world's bitcoins was about $1.5 billion.
+Many economic experts see Bitcoin as the currency of the future. However, it is not ready for mass use. The network may suffer from hacking attacks and the value of the money is not very stable. Bitcoin is also seen as a playground for money speculators.
+    

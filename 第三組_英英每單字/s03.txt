@@ -1,0 +1,19 @@
+﻿Sheep Can Recognize Human Faces
+羊擁有辨識人臉的能力
+University of Cambridge scientists have trained sheep to recognize the faces of famous people.
+
+The scientists hope facial recognition may help with their understanding of neurodegenerative diseases.
+
+The researchers showed the sheep pictures of people on two computer screens. One screen had an unknown person and the other had one of four famous people.
+
+The animals were given food for choosing the photograph of the famous person. They chose the correct photograph by breaking an infrared beam near the flat surface showing the photo.
+
+If they chose the wrong image, an electric signaling device would make a sound, and the sheep would receive no treat.
+
+The sheep eventually were able to identify the famous face eight times out of every ten tries.
+
+The group of famous personalities included actors Emma Watson and Jake Gyllenhaal, and former American president Barack Obama.
+
+Professor Jenny Morton was the leader of the study. "We've shown that sheep have advanced face-recognition abilities, comparable with those of humans and monkeys," she noted.
+
+The sheep were less successful when presented with the faces at a new angle or from a different direction. However, the researchers said the performance of the animals on this test was similar to the levels seen when humans took the test.

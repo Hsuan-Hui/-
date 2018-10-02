@@ -1,0 +1,16 @@
+﻿New Invention Detects Cancer in Seconds
+Technology is being developed in Austin, Texas to make cancer detection faster and tumor removal more precise. A device called the MasSpec Pen can detect cancer with just one touch, researchers said.
+
+“It’s a game changer,” said Aydin Zahedivash, a medical student and co-creator of the MasSpec Pen.
+
+He says the pen can deliver results within 20 seconds and is much less invasive for the patient than the traditional method of diagnosis.
+
+“That process usually will involve taking out some of the tissue, which means cutting it from a patient. Our technology can detect cancer inside of a tissue without cutting it,” Zahedivash said.
+
+During surgery, a drop of water on the pen pulls molecules from the tissue. An instrument called the mass spectrometer then analyzes the water to determine whether cancer is present in the tissue. In seconds, surgeons will know what part of the tissue to cut, how much to cut, and what not to touch so healthy tissue is not damaged.
+
+“We’ve done testing on human tissues that have been taken out of patients and those have shown 96 percent accuracy detecting cancer from non-cancer,” Zahedivash said.
+
+He said that within the year, the MasSpec Pen will be tested in surgery at the Dell Medical School at the University of Texas at Austin.
+
+The device would require approval from the U.S. Food and Drug Administration before becoming widely available.

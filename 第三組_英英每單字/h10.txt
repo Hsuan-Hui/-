@@ -1,0 +1,20 @@
+10 What Bill Gates Fears Most
+The threat of a flu pandemic clouds even his legendary optimism, so he's launching an initiative to prevent one.
+Bill Gates fancies himself an optimist. Global health, he feels, is on an upward trajectory. Childhood deaths are plummeting. Polio is on the verge of eradication.
+But if there’s one issue that punctures his positivity, it’s the possibility that the world will face a serious pandemic—and the near certainty that we aren’t prepared for it.
+Medicine has advanced considerably since then, but those advances are spread thinly (as this year’s non-pandemic flu season showed), and they depend on convoluted and precarious supply chains. The world is far more populated than in 1918—7.6 billion people today versus around 2 billion then—as well as more densely populated. Based on that, the Institute of Disease Modeling predicts that a severe flu pandemic could kill more than 33 million people in just 250 days. Several concerning strains are already circulating.
+To help prepare the world for the next pandemic, the Bill and Melinda Gates Foundation, together with Alphabet’s Larry Page and his family, are launching a $12 million grand challenge to spur research into a universal flu vaccine—one that will be effective against all strains of this frustratingly diverse virus. Gates announced the new initiative at the Shattuck Lecture in Boston on Friday, on the centennial of the 1918 flu.
+Vaccines against measles, mumps, or rubella provide lifelong protection. But the flu comes in a large number of subtypes—H1N1, H5N1, H7N9, and so on—and many strains within those. The viruses also change constantly, which is why the flu vaccine must be constantly updated to target the strains that are most likely to cause problems next. A universal vaccine, which would protect against all possible subtypes and strains, would change that. It would effectively take flu off the table as a major threat, protecting people against future pandemics, while reducing the need for annual vaccination campaigns.
+“If you could get rid of flu, then you wouldn’t have this yearly exercise of trying to guess which strain,” says Gates.
+Teams of researchers are invited to apply for two-year pilot grants of up to $2 million, and the most promising of these will get to apply for a bigger $10 million pot. The goal is to get potential universal vaccines into clinical trials by 2021.
+Despite Gates’s concerns, there are many signs of his trademark optimism in his Boston lecture. He notes that researchers have developed diagnostic tests that exploit the gene-editing technique known as CRISPR to detect minute traces of viruses in blood or saliva samples. Geneticists are using sequencing technology to track the spread and evolution of infectious diseases. Computer scientists have created models that can pinpoint places where the risk of outbreaks is higher.
+But more than any single technology, what the world needs is cooperation. As Gates said in his lecture, “even the best tools in the world won’t be sufficient if we don’t also have an effective global preparedness and response system.” The United States, in particular, can look to its past successes—the near-eradication of polio, the anti-HIV initiative PEPFAR—as roadmaps to preparedness. “We must find it and follow it because lives—in numbers too great to comprehend—depend on it,” Gates said.
+
+
+https://www.theatlantic.com/science/archive/2018/04/what-bill-gates-fears-most/559007/
+
+
+
+
+
+
